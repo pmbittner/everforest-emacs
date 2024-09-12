@@ -47,11 +47,11 @@
 		  ("everforest-soft-dark-red"      . "#e67e80");;red
 		  ("everforest-soft-dark-orange"   . "#e69875");;orange
 		  ("everforest-soft-dark-yellow"   . "#dbbc7f");;yellow
-		  ("everforest-soft-dark-gray"     . "#48584e");;c bg_green
+		  ("everforest-soft-dark-gray"     . "#434f55");;c bg2
 		  ("everforest-soft-dark-silver"   . "#9da9a0");;gray2
 		  ("everforest-soft-dark-black"    . "#293136");;c bg_dim
 		  ("everforest-soft-dark-border"   . "#5d6b66");;c bg5
-		  ("everforest-soft-dark-visual"   . "#434f55"))));; c bg2
+		  ("everforest-soft-dark-visual"   . "#48584e"))));;c bg_green
     colors)
   "List of Everforest Soft Dark Colors.")
 
