@@ -28,7 +28,7 @@
 ;;; Code:
 
 (deftheme everforest-soft-dark
-  "Everforest Soft Dark - sainnhe/everforest soft dark port to emacs")
+  "Everforest Soft Dark - sainnhe/everforest soft dark port to Emacs.")
 
 (defvar everforest-soft-dark-colors-alist
   (let ((colors `(("everforest-soft-dark-accent"   . "#a7c080");;statusline1
