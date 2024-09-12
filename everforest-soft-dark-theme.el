@@ -76,9 +76,9 @@
    `(link-visited        ((t (:foreground ,everforest-soft-dark-blue :underline t :weight normal))))
    `(cursor              ((t (:background ,everforest-soft-dark-fg))))
    `(fringe              ((t (:background ,everforest-soft-dark-bg :foreground ,everforest-soft-dark-silver))))
-   `(region              ((t (:background ,everforest-soft-dark-gray :distant-foreground ,everforest-soft-dark-mono-2))))
+   `(region              ((t (:background ,everforest-soft-dark-visual :distant-foreground ,everforest-soft-dark-mono-2))))
    `(highlight           ((t (:background ,everforest-soft-dark-gray :distant-foreground ,everforest-soft-dark-mono-2))))
-   `(hl-line             ((t (:background ,everforest-soft-dark-visual :distant-foreground nil))))
+   `(hl-line             ((t (:background ,everforest-soft-dark-gray :distant-foreground nil))))
    `(header-line         ((t (:background ,everforest-soft-dark-black))))
    `(vertical-border     ((t (:background ,everforest-soft-dark-border :foreground ,everforest-soft-dark-border))))
    `(secondary-selection ((t (:background ,everforest-soft-dark-bg-1))))
@@ -106,7 +106,7 @@
    `(solaire-fringe-face  ((t (:foreground ,everforest-soft-dark-silver))))
 
    ;; mode-line
-   `(mode-line           ((t (:background ,everforest-soft-dark-visual :foreground ,everforest-soft-dark-silver))))
+   `(mode-line           ((t (:background ,everforest-soft-dark-gray :foreground ,everforest-soft-dark-silver))))
    `(mode-line-buffer-id ((t (:weight bold))))
    `(mode-line-emphasis  ((t (:weight bold))))
    `(mode-line-inactive  ((t (:background ,everforest-soft-dark-bg :foreground ,everforest-soft-dark-silver))))
