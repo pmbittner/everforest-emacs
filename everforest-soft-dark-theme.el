@@ -136,6 +136,7 @@
    `(aw-leading-char-face ((t (:foreground ,everforest-soft-dark-red :weight bold))))
 
    ;; centaur-tabs
+   `(tab-line                       ((t (:background ,everforest-soft-dark-black))))
    `(centaur-tabs-default           ((t (:background ,everforest-soft-dark-black :foreground ,everforest-soft-dark-black))))
    `(centaur-tabs-selected          ((t (:background ,everforest-soft-dark-bg :foreground ,everforest-soft-dark-fg :weight bold))))
    `(centaur-tabs-unselected        ((t (:background ,everforest-soft-dark-black :foreground ,everforest-soft-dark-fg :weight light))))
